@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DatadrivenTestRESTAPI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26c232d5-01dc-474a-bb6c-2bd0a1301210</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>21c61e96-c58d-4802-8b84-10f1051953af</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
